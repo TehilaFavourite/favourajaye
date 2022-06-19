@@ -58,51 +58,33 @@ const Contact = () => {
             >
               Send a message
             </a>
-            
-            
           </article>
           <article className='contact__option'>
             <BsTwitter className='contact__option-icon' />
             <h4>Twitter</h4>
             <h5>Favour Ajaye</h5>
-            <a
-              href='https://twitter.com/teheelaa'
-              target='_blank'
-            >
-              Check me out on twitter
+            <a href='https://twitter.com/teheelaa' target='_blank'>
+              Check me on twitter
             </a>
-            
-            
           </article>
 
           <article className='contact__option'>
             <BsGithub className='contact__option-icon' />
             <h4>Github</h4>
             <h5>Favour Ajaye</h5>
-            <a
-              href='https://github.com/TehilaFavourite'
-              target='_blank'
-            >
+            <a href='https://github.com/TehilaFavourite' target='_blank'>
               Check my repositeries on Github
             </a>
-            
-            
           </article>
 
           <article className='contact__option'>
             <BsMedium className='contact__option-icon' />
             <h4>Blockchain Articles</h4>
             <h5>Favour Ajaye</h5>
-            <a
-              href='https://favoriteblockchain.medium.com/'
-              target='_blank'
-            >
+            <a href='https://favoriteblockchain.medium.com/' target='_blank'>
               Read my Blockchain articles here
             </a>
-            
-            
           </article>
-
         </div>
 
         <form ref={form} onSubmit={sendEmail}>
