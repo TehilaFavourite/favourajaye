@@ -29,18 +29,7 @@ const Services = () => {
                 topics to stakeholders less versed with blockchain applications.
               </p>
             </li>
-            {/* <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li> */}
+            
           </ul>
         </article>
         <article className='service'>
@@ -99,18 +88,7 @@ const Services = () => {
               <BiCheck className='service__list-icon' />
               <p>Ensure maximum security in smart contracts</p>
             </li>
-            {/* <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
-            </li> */}
+            
           </ul>
         </article>
       </div>
