@@ -27,21 +27,29 @@ const About = () => {
             <article className='about__card'>
               <RiUserStarFill className='about__icon' />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>Very satisfied clients</small>
             </article>
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h5>Projects</h5>
-              <small>80+ completed projects</small>
+              <small>well secured projects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae
-            voluptas ea architecto quibusdam, dolorem tempora facere sapiente
-            maxime asperiores placeat dicta nemo odio doloribus aliquam fugit
-            debitis itaque incidunt numquam.
+            I am an experienced Blockchain developer with over 2+ years of experience in
+            the industry with an excellent reputation for resolving problems. I'm Organized
+            and dependable, successful at managing multiple priorities with a
+            positive attitude. I always have the Willingness to take on added responsibilities to
+            meet team goals. I'm Enthusiastic and eager to
+            contribute to team success through hard work, attention to details
+            and with excellent organizational skills. I have Clear understanding of
+            blockchain tasks and training in solidity smart contracts. I'm Motivated
+            to learn, grow and excel in the industry.
           </p>
-          <a href="#contact" className="btn btn-primary"> Let's Talk</a>
+          <a href='#contact' className='btn btn-primary'>
+            {" "}
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>
